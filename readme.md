@@ -3,7 +3,7 @@
 ![Estudo](https://img.shields.io/badge/estudo-markdown-red)
 ![Versão](https://img.shields.io/badge/vers%C3%A3o-1.0.0.1-red)
 ![Script](https://img.shields.io/badge/script-javascript-red)
-![Social](https://img.shields.io/github/watchers/RenanLazoti/estudomarkdown?label=RenanLazoti&style=social)
+[![Social](https://img.shields.io/github/watchers/RenanLazoti/estudomarkdown?label=RenanLazoti&style=social)](https://github.com/RenanLazoti)
 
 Estou escrevendo minha **documentação** para *estudar* um pouco de ***markdown***
 
