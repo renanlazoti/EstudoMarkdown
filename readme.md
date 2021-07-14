@@ -1,3 +1,10 @@
+# Nosso projeto com documentação
+
+![Estudo](https://img.shields.io/badge/estudo-markdown-red)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-1.0.0.1-red)
+![Script](https://img.shields.io/badge/script-javascript-red)
+![Social](https://img.shields.io/github/watchers/RenanLazoti/estudomarkdown?label=RenanLazoti&style=social)
+
 Estou escrevendo minha **documentação** para *estudar* um pouco de ***markdown***
 
 # Titulo do projeto
@@ -19,9 +26,9 @@ Nova caixa de texto
 
 - Segundo
 2. *Sistemas operacionais
-    - Windows
-    - Linux
-    - MacOS
+    1. Windows
+    2. Linux
+    3. MacOS
 
 ``` javascript
     var nome = "Pedro"
