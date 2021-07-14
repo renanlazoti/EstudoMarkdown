@@ -19,10 +19,10 @@ Nova caixa de texto
     * Primeiro.primeiro
     * Primeiro.segundo
 
-1. *Linguagens de script
-    * Javascript
-    * Actionscript
-    * VBScript
+* Linguagens de script
+    1. Javascript
+    2. Actionscript
+    3. VBScript
 
 - Segundo
 2. *Sistemas operacionais
@@ -55,3 +55,20 @@ Nova caixa de texto
 
 ## Veja o resultado do estudo Markdown
 ![Tela do VSCODE](markdown.png)
+
+### Tarefas
+
+- [x] Montar o computador
+- [x] Formatar o computador
+- [x] Preparar o pendrive de boot
+- [] Instalar o sistema operacional no computador
+- [] Verificar a instalação dos drivers
+
+### Sistemas e empresas
+
+Empresas | sistemas | versão
+---------|----------|-------
+Microsoft|Windows   | 11
+Apple|MacOS|10.14
+Ubuntu|Focal|2004
+RedHat|Enterprise|8
