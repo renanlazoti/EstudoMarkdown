@@ -18,17 +18,14 @@ Nova caixa de texto
 * Primeiro  
     * Primeiro.primeiro
     * Primeiro.segundo
-
 1. Linguagens de script
-    1. 1. Javascript
-    2. 2. Actionscript
-    3. 3. VBScript
-
-* Segundo
-2. *Sistemas operacionais
-    * Windows
-    * Linux
-    * MacOS
+    * Javascript
+    * Actionscript
+    * VBScript
+2. Sistemas operacionais
+    - 2.1. Windows
+    - 2.2. Linux
+    - 2.3. MacOS
 
 ``` javascript
     var nome = "Pedro"
