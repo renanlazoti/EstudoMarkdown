@@ -19,16 +19,16 @@ Nova caixa de texto
     * Primeiro.primeiro
     * Primeiro.segundo
 
-* Linguagens de script
-    1. Javascript
-    2. Actionscript
-    3. VBScript
+1. Linguagens de script
+    1. 1. Javascript
+    2. 2. Actionscript
+    3. 3. VBScript
 
-- Segundo
+* Segundo
 2. *Sistemas operacionais
-    1. Windows
-    2. Linux
-    3. MacOS
+    * Windows
+    * Linux
+    * MacOS
 
 ``` javascript
     var nome = "Pedro"
@@ -78,4 +78,5 @@ RedHat|Enterprise|8
 jQuery|Python|Node.js|React
 ------|------|-------|-----
 ![](img1.jpg)|![](img2.png)|![](img3.png)|![](img4.png)
- 
+Java|MySql|PostgreSQL|MongoDB
+![](img5.png)|![](img6.png)|![](img7.png)|![](img8.png)
